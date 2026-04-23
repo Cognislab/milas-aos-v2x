@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "MiLAS v2.x（Mind-Layered Architecture System）を引用する場合は、以下の形式を使用してください。"
+title: "MiLAS AOS v2.x — Mind-Layered Architecture System"
+version: "2.x"
+authors:
+  - family-names: "枝成"
+    given-names: "豆太"
+    affiliation: "Cognis-lab"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >
+  MiLAS (Mind-Layered Architecture System) は、認知の安定性・安全性・再起動性を
+  工学的に保証するための3層アーキテクチャ（L1/L2/L3）です。
+  本リポジトリは MiLAS v2.x の公式実装・論文群を含みます。
+keywords:
+  - MiLAS
+  - Mind-Layered Architecture System
+  - Cognitive OS
+  - L1/L2/L3 Architecture
+  - Cognitive Stability
+  - Cognitive Safety
+  - Cognitive Rebootability
+repository-code: "https://github.com/cognislab/milas-aos-v2x"
+license: "CC-BY-NC-4.0"
+date-released: "2026-04-23"
